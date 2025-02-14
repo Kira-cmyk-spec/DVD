@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kira_Dvd_Rental", "Kira_Dvd_Rental\Kira_Dvd_Rental.csproj", "{C32B335D-A76B-44CD-B113-0A042B55A733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32B335D-A76B-44CD-B113-0A042B55A733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32B335D-A76B-44CD-B113-0A042B55A733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32B335D-A76B-44CD-B113-0A042B55A733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32B335D-A76B-44CD-B113-0A042B55A733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB230A1A-E232-41C9-B12C-9781583D4E7F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<Window x:Class="Kira_Dvd_Rental.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kira_Dvd_Rental"
+        mc:Ignorable="d"
+        Title="DVD_Rental" Height="450" Width="800" Icon="D:\Документы\941\Kira_Dvd_Rental\Kira_Dvd_Rental\Imageapp\i (1).webp">
+    <Grid>
+        <Frame x:Name="Framenavigate" NavigationUIVisibility="Hidden"/>
+    </Grid>
+</Window>

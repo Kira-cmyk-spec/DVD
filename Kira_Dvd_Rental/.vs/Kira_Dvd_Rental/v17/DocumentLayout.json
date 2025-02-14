@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\kira_dvd_rental\\kira_dvd_rental\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|solutionrelative:kira_dvd_rental\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\kira_dvd_rental\\kira_dvd_rental\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|solutionrelative:kira_dvd_rental\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\kira_dvd_rental\\kira_dvd_rental\\pageapp\\pageautho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|solutionrelative:kira_dvd_rental\\pageapp\\pageautho.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\kira_dvd_rental\\kira_dvd_rental\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|solutionrelative:kira_dvd_rental\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\kira_dvd_rental\\kira_dvd_rental\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|solutionrelative:kira_dvd_rental\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|d:\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\kira_dvd_rental\\kira_dvd_rental\\pageapp\\pageautho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32B335D-A76B-44CD-B113-0A042B55A733}|Kira_Dvd_Rental\\Kira_Dvd_Rental.csproj|solutionrelative:kira_dvd_rental\\pageapp\\pageautho.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\App.config",
+              "RelativeDocumentMoniker": "Kira_Dvd_Rental\\App.config",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\App.config",
+              "RelativeToolTip": "Kira_Dvd_Rental\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-14T07:33:14.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pageapp\\PageAutho.xaml.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml.cs",
+              "RelativeDocumentMoniker": "Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml.cs",
+              "RelativeToolTip": "Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:25:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\App.xaml",
+              "RelativeDocumentMoniker": "Kira_Dvd_Rental\\App.xaml",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\App.xaml",
+              "RelativeToolTip": "Kira_Dvd_Rental\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T07:13:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PageAutho.xaml",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml",
+              "RelativeDocumentMoniker": "Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml",
+              "RelativeToolTip": "Kira_Dvd_Rental\\Pageapp\\PageAutho.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T07:11:26.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kira_Dvd_Rental\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\MainWindow.xaml",
+              "RelativeToolTip": "Kira_Dvd_Rental\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-14T07:01:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kira_Dvd_Rental\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\941\\Kira_Dvd_Rental\\Kira_Dvd_Rental\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kira_Dvd_Rental\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:01:39.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
